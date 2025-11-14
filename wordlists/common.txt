@@ -1,0 +1,13 @@
+admin
+login
+dashboard
+backup
+uploads
+server-status
+test
+config
+config.php
+index.php
+robots.txt
+api
+data
